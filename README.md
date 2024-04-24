@@ -4,5 +4,5 @@
 Respositorio para fins educacionais onde demonstro algumas das minhas soluções para problemas resolvidos em plataformas como HackerRank, LeetCode e CodeWars.
 
 ## Tecnologias usadas:
-- .NET 8.0
+- C#
 - NodeJS
